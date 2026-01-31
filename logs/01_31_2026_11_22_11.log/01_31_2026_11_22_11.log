@@ -1,0 +1,3 @@
+[2026-01-31 11:22:13,097] 15 root - INFO - Hey lets go and initiate 
+[2026-01-31 11:22:28,380] 69 root - INFO - The test_train_split is done
+[2026-01-31 11:22:28,581] 83 root - INFO - Data is get splitted and only model formation is remain

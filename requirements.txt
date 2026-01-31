@@ -4,5 +4,7 @@ pymongo
 numpy
 pymongo[srv]==3.12
 certifi
+scikit-learn
+
 -e . ## ye sabse pehle setup.py ko refer karega aur dekhega ki kya kya install karna ha aur metadata ko setup karega
 
