@@ -1,0 +1,13 @@
+[2026-02-02 16:15:28,601] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-02-02 16:15:30,219] 18 root - INFO - Hey lets go and initiate 
+[2026-02-02 16:15:44,531] 69 root - INFO - The test_train_split is done
+[2026-02-02 16:15:44,711] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-02 16:15:59,535] 69 root - INFO - The test_train_split is done
+[2026-02-02 16:15:59,717] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-02 16:15:59,728] 21 root - INFO - Data Initialtion Completed
+[2026-02-02 16:15:59,732] 24 root - INFO - Hey Initiate the data validation 
+[2026-02-02 16:15:59,845] 37 root - INFO - Required Number of columns:2
+[2026-02-02 16:15:59,848] 38 root - INFO - Data Frame has Columns :33
+[2026-02-02 16:15:59,848] 37 root - INFO - Required Number of columns:2
+[2026-02-02 16:15:59,848] 38 root - INFO - Data Frame has Columns :33
+[2026-02-02 16:16:00,237] 26 root - INFO - Data Validation Completed
