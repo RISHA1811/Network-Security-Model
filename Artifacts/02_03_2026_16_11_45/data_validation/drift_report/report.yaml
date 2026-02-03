@@ -1,0 +1,99 @@
+Abnormal_URL:
+  Drift_status: false
+  p_value: 0.9999997519266477
+DNSRecord:
+  Drift_status: false
+  p_value: 1.0
+Domain_registeration_length:
+  Drift_status: false
+  p_value: 1.0
+Favicon:
+  Drift_status: false
+  p_value: 1.0
+Google_Index:
+  Drift_status: false
+  p_value: 1.0
+HTTPS_token:
+  Drift_status: false
+  p_value: 0.9999999762157591
+Iframe:
+  Drift_status: false
+  p_value: 0.9999999998083141
+Links_in_tags:
+  Drift_status: false
+  p_value: 0.9566224877635334
+Links_pointing_to_page:
+  Drift_status: false
+  p_value: 0.9869852851762349
+Page_Rank:
+  Drift_status: false
+  p_value: 0.7292619957971667
+Prefix_Suffix:
+  Drift_status: false
+  p_value: 1.0
+Redirect:
+  Drift_status: false
+  p_value: 0.9984341162157268
+Request_URL:
+  Drift_status: false
+  p_value: 1.0
+Result:
+  Drift_status: false
+  p_value: 0.9982765245128745
+RightClick:
+  Drift_status: false
+  p_value: 1.0
+SFH:
+  Drift_status: false
+  p_value: 0.8690291267899658
+SSLfinal_State:
+  Drift_status: false
+  p_value: 0.3295817977393797
+Shortining_Service:
+  Drift_status: false
+  p_value: 0.9999999991566036
+Statistical_report:
+  Drift_status: false
+  p_value: 0.9926347991987626
+Submitting_to_email:
+  Drift_status: false
+  p_value: 0.9944502506438938
+URL_Length:
+  Drift_status: false
+  p_value: 0.9999971926676131
+URL_of_Anchor:
+  Drift_status: false
+  p_value: 0.9955723955728495
+_id:
+  Drift_status: false
+  p_value: 0.527340321710972
+age_of_domain:
+  Drift_status: false
+  p_value: 0.9975154378416575
+double_slash_redirecting:
+  Drift_status: false
+  p_value: 1.0
+having_At_Symbol:
+  Drift_status: false
+  p_value: 1.0
+having_IP_Address:
+  Drift_status: false
+  p_value: 1.0
+having_Sub_Domain:
+  Drift_status: false
+  p_value: 0.8296674443894623
+index:
+  Drift_status: false
+  p_value: 0.9475637071825521
+on_mouseover:
+  Drift_status: false
+  p_value: 1.0
+popUpWidnow:
+  Drift_status: false
+  p_value: 1.0
+port:
+  Drift_status: false
+  p_value: 0.9877313893630634
+web_traffic:
+  Drift_status: false
+  p_value: 0.9456269286078407

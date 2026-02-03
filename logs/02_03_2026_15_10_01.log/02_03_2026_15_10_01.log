@@ -1,0 +1,18 @@
+[2026-02-03 15:10:01,426] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-02-03 15:10:03,172] 19 root - INFO - Hey lets go and initiate 
+[2026-02-03 15:10:27,124] 69 root - INFO - The test_train_split is done
+[2026-02-03 15:10:27,311] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-03 15:10:46,523] 69 root - INFO - The test_train_split is done
+[2026-02-03 15:10:46,702] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-03 15:10:46,712] 22 root - INFO - Data Initialtion Completed
+[2026-02-03 15:10:46,716] 25 root - INFO - Hey Initiate the data validation 
+[2026-02-03 15:10:46,830] 37 root - INFO - Required Number of columns:2
+[2026-02-03 15:10:46,831] 38 root - INFO - Data Frame has Columns :33
+[2026-02-03 15:10:46,831] 37 root - INFO - Required Number of columns:2
+[2026-02-03 15:10:46,831] 38 root - INFO - Data Frame has Columns :33
+[2026-02-03 15:10:47,259] 27 root - INFO - Data Validation Completed
+[2026-02-03 15:10:47,259] 29 root - INFO - Data Transformation Started
+[2026-02-03 15:10:47,259] 53 root - INFO - Entered DataTransformation Method
+[2026-02-03 15:10:47,260] 55 root - INFO - Starting Data Transformation
+[2026-02-03 15:10:47,334] 40 root - INFO - Entered get_data_transformer method of Transformation Class
+[2026-02-03 15:10:47,335] 43 root - INFO - Initialization of the KNN Imputer
