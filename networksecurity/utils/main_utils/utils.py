@@ -50,6 +50,24 @@ def save_object(file_path:str, obj:object)-> None:
             pickle.dump(obj,file_obj)
             logging.info("Exited the save_object method of MainUtils Class")
     except Exception as e:
-        raise NetworkCustomException(e,sys)
+        raise NetworkCustomException(e,sys) from e
     
 
+def load_object(file_path: str,) -> object:
+    try:
+        if not os.path.exists(file_path):
+            raise Exception(f"The file: {file_path} is not exists")
+        with open(file_path, "rb") as file_obj:
+            print(file_obj)
+            return pickle.load(file_obj)
+    except Exception as e:
+        raise NetworkCustomException(e, sys) from e
+
+
+def load_numppy_array_data(file_path:str)-> np.array:
+    try:
+        with open(file_path,"rb") as file_obj:
+            return np.load(file_obj)
+    except Exception as e:
+        raise NetworkCustomException(e,sys) from e
+    
