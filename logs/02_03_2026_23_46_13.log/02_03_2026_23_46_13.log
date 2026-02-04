@@ -1,0 +1,23 @@
+[2026-02-03 23:46:14,210] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-02-03 23:46:15,843] 20 root - INFO - Hey lets go and initiate 
+[2026-02-03 23:46:30,628] 69 root - INFO - The test_train_split is done
+[2026-02-03 23:46:30,820] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-03 23:46:45,272] 69 root - INFO - The test_train_split is done
+[2026-02-03 23:46:45,448] 83 root - INFO - Data is get splitted and only model formation is remain
+[2026-02-03 23:46:45,456] 23 root - INFO - Data Initialtion Completed
+[2026-02-03 23:46:45,460] 26 root - INFO - Hey Initiate the data validation 
+[2026-02-03 23:46:45,567] 37 root - INFO - Required Number of columns:2
+[2026-02-03 23:46:45,570] 38 root - INFO - Data Frame has Columns :33
+[2026-02-03 23:46:45,570] 37 root - INFO - Required Number of columns:2
+[2026-02-03 23:46:45,570] 38 root - INFO - Data Frame has Columns :33
+[2026-02-03 23:46:45,935] 28 root - INFO - Data Validation Completed
+[2026-02-03 23:46:45,935] 30 root - INFO - Data Transformation Started
+[2026-02-03 23:46:45,935] 67 root - INFO - Entered initiate_data_transformation method
+[2026-02-03 23:46:45,935] 70 root - INFO - Reading train and test data
+[2026-02-03 23:46:46,013] 50 root - INFO - Entered get_data_transformer method of DataTransformation class
+[2026-02-03 23:46:46,013] 53 root - INFO - KNN Imputer initialized
+[2026-02-03 23:46:46,035] 49 root - INFO - Entered the save object method of Mainutils Class
+[2026-02-03 23:46:46,040] 53 root - INFO - Exited the save_object method of MainUtils Class
+[2026-02-03 23:46:46,040] 143 root - INFO - Data Transformation completed successfully
+[2026-02-03 23:46:46,043] 35 root - INFO - Data Transformation Completed
+[2026-02-03 23:46:46,043] 36 root - INFO - Model Training Started
