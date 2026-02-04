@@ -13,7 +13,7 @@ class NetworkModel:
             self.preprocessor = preprocessor
             self.model = model
         except Exception as e:
-            raise NetworkSecurityException(e, sys)
+            raise NetworkCustomException(e, sys)
 
     def predict(self, x):
         try:
@@ -21,4 +21,4 @@ class NetworkModel:
             y_hat = self.model.predict(x_transform)
             return y_hat
         except Exception as e:
-            raise NetworkSecurityException(e, sys)
+            raise NetworkCustomException(e, sys)
