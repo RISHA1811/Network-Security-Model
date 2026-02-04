@@ -1,0 +1,8 @@
+[2026-02-04 10:33:12,771] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-02-04 10:33:17,963] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-04 10:33:17,967] 107 dagshub - INFO - Accessing as rishabhjha1811
+[2026-02-04 10:33:19,062] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/rishabhjha1811/Network-Security-Model "HTTP/1.1 200 OK"
+[2026-02-04 10:33:20,228] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-04 10:33:20,231] 107 dagshub - INFO - Initialized MLflow to track repo "rishabhjha1811/Network-Security-Model"
+[2026-02-04 10:33:20,231] 107 dagshub - INFO - Repository rishabhjha1811/Network-Security-Model initialized!
+[2026-02-04 10:33:20,235] 20 root - INFO - Hey lets go and initiate 

@@ -1,0 +1,12 @@
+[2026-02-04 10:30:00,498] 161 numexpr.utils - INFO - NumExpr defaulting to 12 threads.
+[2026-02-04 10:30:22,156] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/login/oauth/middleman "HTTP/1.1 200 OK"
+[2026-02-04 10:30:23,453] 1025 httpx - INFO - HTTP Request: POST https://dagshub.com/login/oauth/access_token "HTTP/1.1 200 OK"
+[2026-02-04 10:30:24,685] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-04 10:30:24,706] 107 dagshub - INFO - Accessing as rishabhjha1811
+[2026-02-04 10:30:25,926] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/rishabhjha1811/Network-Security-Model "HTTP/1.1 200 OK"
+[2026-02-04 10:30:27,537] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-02-04 10:30:27,556] 107 dagshub - INFO - Initialized MLflow to track repo "rishabhjha1811/Network-Security-Model"
+[2026-02-04 10:30:27,557] 107 dagshub - INFO - Repository rishabhjha1811/Network-Security-Model initialized!
+[2026-02-04 10:30:27,557] 20 root - INFO - Hey lets go and initiate 
+[2026-02-04 10:30:45,448] 69 root - INFO - The test_train_split is done
+[2026-02-04 10:30:45,654] 83 root - INFO - Data is get splitted and only model formation is remain

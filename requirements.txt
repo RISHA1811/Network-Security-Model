@@ -8,7 +8,7 @@ scikit-learn
 dill
 pyaml
 mlflow
-
+dagshub
 # -e . 
 ## ye sabse pehle setup.py ko refer karega aur dekhega ki kya kya install karna ha aur metadata ko setup karega
 
